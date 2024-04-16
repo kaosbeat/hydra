@@ -243,7 +243,7 @@ npm install
 ```
 run dev environment
 ```
-npm dev
+npm run dev
 ```
 
 ## Connecting to server from dev/ local editor environment
